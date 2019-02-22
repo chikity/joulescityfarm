@@ -2,13 +2,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Publications on Joules City Farm</title>
-    <link>/publication/</link>
+    <link>https://chikity.github.io/joulescityfarm/publication/</link>
     <description>Recent content in Publications on Joules City Farm</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2019 Joules City Farm</copyright>
     
-	<atom:link href="/publication/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://chikity.github.io/joulescityfarm/publication/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
