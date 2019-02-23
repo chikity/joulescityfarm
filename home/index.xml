@@ -21,6 +21,15 @@
     </item>
     
     <item>
+      <title>Welcome to our farm</title>
+      <link>https://chikity.github.io/joulescityfarm/home/welcome/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://chikity.github.io/joulescityfarm/home/welcome/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. </description>
+    </item>
+    
+    <item>
       <title>Academic</title>
       <link>https://chikity.github.io/joulescityfarm/home/hero/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -37,15 +46,6 @@ Star</description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://chikity.github.io/joulescityfarm/home/about/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>What we do</title>
-      <link>https://chikity.github.io/joulescityfarm/home/skills/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://chikity.github.io/joulescityfarm/home/skills/</guid>
       <description></description>
     </item>
     
@@ -95,11 +95,11 @@ Star</description>
     </item>
     
     <item>
-      <title>People</title>
-      <link>https://chikity.github.io/joulescityfarm/home/people/</link>
+      <title>Our Team</title>
+      <link>https://chikity.github.io/joulescityfarm/home/team/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://chikity.github.io/joulescityfarm/home/people/</guid>
+      <guid>https://chikity.github.io/joulescityfarm/home/team/</guid>
       <description></description>
     </item>
     

@@ -12,11 +12,20 @@
     
     
     <item>
-      <title>admin</title>
-      <link>https://chikity.github.io/joulescityfarm/authors/admin/</link>
+      <title>adrian</title>
+      <link>https://chikity.github.io/joulescityfarm/authors/adrian/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://chikity.github.io/joulescityfarm/authors/admin/</guid>
+      <guid>https://chikity.github.io/joulescityfarm/authors/adrian/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>chikit</title>
+      <link>https://chikity.github.io/joulescityfarm/authors/chikit/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://chikity.github.io/joulescityfarm/authors/chikit/</guid>
       <description></description>
     </item>
     
