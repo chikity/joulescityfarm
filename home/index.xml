@@ -13,10 +13,10 @@
     
     <item>
       <title></title>
-      <link>https://chikity.github.io/joulescityfarm/home/1.slider/</link>
+      <link>https://chikity.github.io/joulescityfarm/home/1-slider/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://chikity.github.io/joulescityfarm/home/1.slider/</guid>
+      <guid>https://chikity.github.io/joulescityfarm/home/1-slider/</guid>
       <description></description>
     </item>
     
@@ -26,7 +26,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://chikity.github.io/joulescityfarm/home/welcome/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. </description>
+      <description>&#34;Located right at the heart of Yangon </description>
     </item>
     
     <item>
@@ -41,56 +41,29 @@ Star</description>
     </item>
     
     <item>
-      <title>Biography</title>
-      <link>https://chikity.github.io/joulescityfarm/home/about/</link>
+      <title>In the Media</title>
+      <link>https://chikity.github.io/joulescityfarm/home/media/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://chikity.github.io/joulescityfarm/home/about/</guid>
+      <guid>https://chikity.github.io/joulescityfarm/home/media/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Experience</title>
-      <link>https://chikity.github.io/joulescityfarm/home/experience/</link>
+      <title>Our Customers</title>
+      <link>https://chikity.github.io/joulescityfarm/home/customer/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://chikity.github.io/joulescityfarm/home/experience/</guid>
+      <guid>https://chikity.github.io/joulescityfarm/home/customer/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Accomplish&amp;shy;ments</title>
-      <link>https://chikity.github.io/joulescityfarm/home/accomplishments/</link>
+      <title>Products</title>
+      <link>https://chikity.github.io/joulescityfarm/home/product/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://chikity.github.io/joulescityfarm/home/accomplishments/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Recent Posts</title>
-      <link>https://chikity.github.io/joulescityfarm/home/posts/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://chikity.github.io/joulescityfarm/home/posts/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Trusted by</title>
-      <link>https://chikity.github.io/joulescityfarm/home/trusted/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://chikity.github.io/joulescityfarm/home/trusted/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Tags</title>
-      <link>https://chikity.github.io/joulescityfarm/home/tags/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://chikity.github.io/joulescityfarm/home/tags/</guid>
+      <guid>https://chikity.github.io/joulescityfarm/home/product/</guid>
       <description></description>
     </item>
     
