@@ -22,15 +22,6 @@
     </item>
     
     <item>
-      <title>Baby Kale</title>
-      <link>https://chikity.github.io/joulescityfarm/product/baby_kale/</link>
-      <pubDate>Tue, 26 Feb 2019 14:09:17 +0700</pubDate>
-      
-      <guid>https://chikity.github.io/joulescityfarm/product/baby_kale/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Green Amaranth Microgreen</title>
       <link>https://chikity.github.io/joulescityfarm/product/green_amaranth/</link>
       <pubDate>Tue, 26 Feb 2019 14:08:41 +0700</pubDate>
@@ -76,20 +67,20 @@
     </item>
     
     <item>
-      <title>Kaiware (Radish microgreen)</title>
-      <link>https://chikity.github.io/joulescityfarm/product/kaiware/</link>
-      <pubDate>Tue, 26 Feb 2019 14:06:56 +0700</pubDate>
-      
-      <guid>https://chikity.github.io/joulescityfarm/product/kaiware/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Sunflower Microgreen</title>
       <link>https://chikity.github.io/joulescityfarm/product/sunflower/</link>
       <pubDate>Tue, 26 Feb 2019 14:02:11 +0700</pubDate>
       
       <guid>https://chikity.github.io/joulescityfarm/product/sunflower/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kaiware (Japanese Radish Microgreen)</title>
+      <link>https://chikity.github.io/joulescityfarm/product/kaiware/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://chikity.github.io/joulescityfarm/product/kaiware/</guid>
       <description></description>
     </item>
     

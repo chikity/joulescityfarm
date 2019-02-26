@@ -20,30 +20,6 @@
     
     <url>
     
-      <loc>https://chikity.github.io/joulescityfarm/product/chamomile/</loc>
-      <lastmod>2019-02-26T14:10:40+07:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://chikity.github.io/joulescityfarm/product/calendula/</loc>
-      <lastmod>2019-02-26T14:10:34+07:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://chikity.github.io/joulescityfarm/product/anise_hyssop/</loc>
-      <lastmod>2019-02-26T14:10:25+07:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
       <loc>https://chikity.github.io/joulescityfarm/product/dandelion/</loc>
       <lastmod>2019-02-26T14:10:16+07:00</lastmod>
     </url>
@@ -52,24 +28,8 @@
     
     <url>
     
-      <loc>https://chikity.github.io/joulescityfarm/product/borage/</loc>
-      <lastmod>2019-02-26T14:10:09+07:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
       <loc>https://chikity.github.io/joulescityfarm/product/purple_cabbage/</loc>
       <lastmod>2019-02-26T14:09:31+07:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://chikity.github.io/joulescityfarm/product/baby_kale/</loc>
-      <lastmod>2019-02-26T14:09:17+07:00</lastmod>
     </url>
     
   
@@ -110,14 +70,6 @@
     
       <loc>https://chikity.github.io/joulescityfarm/product/snowpea/</loc>
       <lastmod>2019-02-26T14:07:15+07:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://chikity.github.io/joulescityfarm/product/kaiware/</loc>
-      <lastmod>2019-02-26T14:06:56+07:00</lastmod>
     </url>
     
   
@@ -200,6 +152,13 @@
       <loc>https://chikity.github.io/joulescityfarm/</loc>
       <lastmod>2019-02-26T14:11:12+07:00</lastmod>
       <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://chikity.github.io/joulescityfarm/product/kaiware/</loc>
     </url>
     
   

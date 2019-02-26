@@ -21,12 +21,12 @@
     </item>
     
     <item>
-      <title>Welcome to our farm</title>
+      <title>Welcome to Joules City Farm</title>
       <link>https://chikity.github.io/joulescityfarm/home/welcome/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://chikity.github.io/joulescityfarm/home/welcome/</guid>
-      <description>&#34;Located right at the heart of Yangon </description>
+      <description></description>
     </item>
     
     <item>
@@ -50,20 +50,20 @@ Star</description>
     </item>
     
     <item>
-      <title>Our Customers</title>
-      <link>https://chikity.github.io/joulescityfarm/home/customer/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://chikity.github.io/joulescityfarm/home/customer/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Products</title>
       <link>https://chikity.github.io/joulescityfarm/home/product/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://chikity.github.io/joulescityfarm/home/product/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Our Customers</title>
+      <link>https://chikity.github.io/joulescityfarm/home/customer/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://chikity.github.io/joulescityfarm/home/customer/</guid>
       <description></description>
     </item>
     
