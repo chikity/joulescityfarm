@@ -204,16 +204,6 @@
     
     <url>
     
-      <xhtml:link rel="alternate" href="https://chikity.github.io/joulescityfarm/publication/" hreflang="en"/>
-      <xhtml:link rel="alternate" href="https://chikity.github.io/joulescityfarm/my/publication/" hreflang="my"/>
-    
-      <loc>https://chikity.github.io/joulescityfarm/publication/</loc>
-    </url>
-    
-  
-    
-    <url>
-    
       <xhtml:link rel="alternate" href="https://chikity.github.io/joulescityfarm/talk/" hreflang="en"/>
       <xhtml:link rel="alternate" href="https://chikity.github.io/joulescityfarm/my/talk/" hreflang="my"/>
     
