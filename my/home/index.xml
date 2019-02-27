@@ -2,39 +2,39 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Homes on Joules City Farm</title>
-    <link>https://chikity.github.io/joulescityfarm/my/home/</link>
+    <link>http://joulescity.farm/my/home/</link>
     <description>Recent content in Homes on Joules City Farm</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>my</language>
     <copyright>&amp;copy; 2019 Joules City Farm</copyright>
     
-	<atom:link href="https://chikity.github.io/joulescityfarm/my/home/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://joulescity.farm/my/home/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title></title>
-      <link>https://chikity.github.io/joulescityfarm/my/home/1.slider/</link>
+      <link>http://joulescity.farm/my/home/1.slider/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://chikity.github.io/joulescityfarm/my/home/1.slider/</guid>
+      <guid>http://joulescity.farm/my/home/1.slider/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Mingalabar to our farm</title>
-      <link>https://chikity.github.io/joulescityfarm/my/home/welcome/</link>
+      <link>http://joulescity.farm/my/home/welcome/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://chikity.github.io/joulescityfarm/my/home/welcome/</guid>
+      <guid>http://joulescity.farm/my/home/welcome/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. </description>
     </item>
     
     <item>
       <title>Academic</title>
-      <link>https://chikity.github.io/joulescityfarm/my/home/hero/</link>
+      <link>http://joulescity.farm/my/home/hero/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://chikity.github.io/joulescityfarm/my/home/hero/</guid>
+      <guid>http://joulescity.farm/my/home/hero/</guid>
       <description>The Best Way to Create the Website You Want from Markdown (or RStudio/Jupyter)
 Build Anything with Widgets
 Star</description>
@@ -42,73 +42,73 @@ Star</description>
     
     <item>
       <title>Biography</title>
-      <link>https://chikity.github.io/joulescityfarm/my/home/about/</link>
+      <link>http://joulescity.farm/my/home/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://chikity.github.io/joulescityfarm/my/home/about/</guid>
+      <guid>http://joulescity.farm/my/home/about/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Experience</title>
-      <link>https://chikity.github.io/joulescityfarm/my/home/experience/</link>
+      <link>http://joulescity.farm/my/home/experience/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://chikity.github.io/joulescityfarm/my/home/experience/</guid>
+      <guid>http://joulescity.farm/my/home/experience/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Accomplish&amp;shy;ments</title>
-      <link>https://chikity.github.io/joulescityfarm/my/home/accomplishments/</link>
+      <link>http://joulescity.farm/my/home/accomplishments/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://chikity.github.io/joulescityfarm/my/home/accomplishments/</guid>
+      <guid>http://joulescity.farm/my/home/accomplishments/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Recent Posts</title>
-      <link>https://chikity.github.io/joulescityfarm/my/home/posts/</link>
+      <link>http://joulescity.farm/my/home/posts/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://chikity.github.io/joulescityfarm/my/home/posts/</guid>
+      <guid>http://joulescity.farm/my/home/posts/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Trusted by</title>
-      <link>https://chikity.github.io/joulescityfarm/my/home/trusted/</link>
+      <link>http://joulescity.farm/my/home/trusted/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://chikity.github.io/joulescityfarm/my/home/trusted/</guid>
+      <guid>http://joulescity.farm/my/home/trusted/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Tags</title>
-      <link>https://chikity.github.io/joulescityfarm/my/home/tags/</link>
+      <link>http://joulescity.farm/my/home/tags/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://chikity.github.io/joulescityfarm/my/home/tags/</guid>
+      <guid>http://joulescity.farm/my/home/tags/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Our Team</title>
-      <link>https://chikity.github.io/joulescityfarm/my/home/team/</link>
+      <link>http://joulescity.farm/my/home/team/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://chikity.github.io/joulescityfarm/my/home/team/</guid>
+      <guid>http://joulescity.farm/my/home/team/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Contact</title>
-      <link>https://chikity.github.io/joulescityfarm/my/home/contact/</link>
+      <link>http://joulescity.farm/my/home/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://chikity.github.io/joulescityfarm/my/home/contact/</guid>
+      <guid>http://joulescity.farm/my/home/contact/</guid>
       <description></description>
     </item>
     

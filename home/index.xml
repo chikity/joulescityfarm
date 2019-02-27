@@ -2,39 +2,39 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Homes on Joules City Farm</title>
-    <link>https://chikity.github.io/joulescityfarm/home/</link>
+    <link>http://joulescity.farm/home/</link>
     <description>Recent content in Homes on Joules City Farm</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2019 Joules City Farm</copyright>
     
-	<atom:link href="https://chikity.github.io/joulescityfarm/home/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://joulescity.farm/home/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title></title>
-      <link>https://chikity.github.io/joulescityfarm/home/1-slider/</link>
+      <link>http://joulescity.farm/home/1-slider/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://chikity.github.io/joulescityfarm/home/1-slider/</guid>
+      <guid>http://joulescity.farm/home/1-slider/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Welcome to Joules City Farm</title>
-      <link>https://chikity.github.io/joulescityfarm/home/welcome/</link>
+      <link>http://joulescity.farm/home/welcome/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://chikity.github.io/joulescityfarm/home/welcome/</guid>
+      <guid>http://joulescity.farm/home/welcome/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Academic</title>
-      <link>https://chikity.github.io/joulescityfarm/home/hero/</link>
+      <link>http://joulescity.farm/home/hero/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://chikity.github.io/joulescityfarm/home/hero/</guid>
+      <guid>http://joulescity.farm/home/hero/</guid>
       <description>The Best Way to Create the Website You Want from Markdown (or RStudio/Jupyter)
 Build Anything with Widgets
 Star</description>
@@ -42,46 +42,46 @@ Star</description>
     
     <item>
       <title>In the Media</title>
-      <link>https://chikity.github.io/joulescityfarm/home/media/</link>
+      <link>http://joulescity.farm/home/media/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://chikity.github.io/joulescityfarm/home/media/</guid>
+      <guid>http://joulescity.farm/home/media/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Products</title>
-      <link>https://chikity.github.io/joulescityfarm/home/product/</link>
+      <link>http://joulescity.farm/home/product/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://chikity.github.io/joulescityfarm/home/product/</guid>
+      <guid>http://joulescity.farm/home/product/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Our Customers</title>
-      <link>https://chikity.github.io/joulescityfarm/home/customer/</link>
+      <link>http://joulescity.farm/home/customer/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://chikity.github.io/joulescityfarm/home/customer/</guid>
+      <guid>http://joulescity.farm/home/customer/</guid>
       <description>  </description>
     </item>
     
     <item>
       <title>Our Team</title>
-      <link>https://chikity.github.io/joulescityfarm/home/team/</link>
+      <link>http://joulescity.farm/home/team/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://chikity.github.io/joulescityfarm/home/team/</guid>
+      <guid>http://joulescity.farm/home/team/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Contact</title>
-      <link>https://chikity.github.io/joulescityfarm/home/contact/</link>
+      <link>http://joulescity.farm/home/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://chikity.github.io/joulescityfarm/home/contact/</guid>
+      <guid>http://joulescity.farm/home/contact/</guid>
       <description></description>
     </item>
     

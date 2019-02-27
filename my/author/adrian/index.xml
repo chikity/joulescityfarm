@@ -2,13 +2,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Joules City Farm</title>
-    <link>https://chikity.github.io/joulescityfarm/my/author/adrian/</link>
+    <link>http://joulescity.farm/my/author/adrian/</link>
     <description>Recent content on Joules City Farm</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>my</language>
     <copyright>&amp;copy; 2019 Joules City Farm</copyright>
     
-	<atom:link href="https://chikity.github.io/joulescityfarm/my/author/adrian/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://joulescity.farm/my/author/adrian/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
