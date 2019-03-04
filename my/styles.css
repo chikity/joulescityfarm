@@ -1343,7 +1343,7 @@ article .article-metadata {
 /*************************************************
  *  Accomplishments
  **************************************************/
- 
+
 .course {
   margin-bottom: -0.5rem;
 }
@@ -2427,4 +2427,22 @@ body.dark,
 .dark .btn-primary,
 .dark .btn.btn-primary.active {
   color: initial;
+}
+
+/*************************************************
+ *  Customs - customer widget
+ **************************************************/
+ .customer {
+   font-size: 0.8rem;
+   line-height: 1.5;
+   color: #555;
+   text-align: center;
+ }
+
+.customer-icon {
+  display: block;
+  width: 100%;
+  color: #363636;
+  font-size: 3rem;
+  text-align: center;
 }
