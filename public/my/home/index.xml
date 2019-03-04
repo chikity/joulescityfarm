@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Homes on Joules City Farm</title>
+    <link>http://joulescity.farm/my/home/</link>
+    <description>Recent content in Homes on Joules City Farm</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>my</language>
+    <copyright>&amp;copy; 2019 Joules City Farm</copyright>
+    
+	<atom:link href="http://joulescity.farm/my/home/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>http://joulescity.farm/my/home/slider/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://joulescity.farm/my/home/slider/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Welcome to Joules City Farm</title>
+      <link>http://joulescity.farm/my/home/welcome/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://joulescity.farm/my/home/welcome/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Academic</title>
+      <link>http://joulescity.farm/my/home/hero/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://joulescity.farm/my/home/hero/</guid>
+      <description>The Best Way to Create the Website You Want from Markdown (or RStudio/Jupyter)
+Build Anything with Widgets
+Star</description>
+    </item>
+    
+    <item>
+      <title>In the Media</title>
+      <link>http://joulescity.farm/my/home/media/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://joulescity.farm/my/home/media/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Products</title>
+      <link>http://joulescity.farm/my/home/product/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://joulescity.farm/my/home/product/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Our Customers</title>
+      <link>http://joulescity.farm/my/home/customer/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://joulescity.farm/my/home/customer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Our Team</title>
+      <link>http://joulescity.farm/my/home/team/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://joulescity.farm/my/home/team/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>http://joulescity.farm/my/home/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://joulescity.farm/my/home/contact/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
